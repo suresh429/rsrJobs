@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "885816036964",
+    "firebase_url": "https://rsr-consultancy.firebaseio.com",
+    "project_id": "rsr-consultancy",
+    "storage_bucket": "rsr-consultancy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885816036964:android:fc40a8fa6473e999b81971",
+        "android_client_info": {
+          "package_name": "com.suresh.rsr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885816036964-brrntse96mhabm49rtsg449nel8jv6gc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD69WhNqmg7tm6KGsLdD5ZEBbje8Pntwcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885816036964-brrntse96mhabm49rtsg449nel8jv6gc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

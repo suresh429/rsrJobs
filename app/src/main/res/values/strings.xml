@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">RSR Jobs</string>
+
+    <!--TEST IDS-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="admob_app_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_home_activity">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_login_activity">ca-app-pub-3940256099942544/5224354917</string>
+    <string name="admob_main_activity">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_upload_activity">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="admob_leads_activity">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--LIVE IDS-->
+   <!-- <string name="banner_ad_unit_id">ca-app-pub-9837023125216008/9610578827</string>
+    <string name="admob_app_id">ca-app-pub-9837023125216008~9968412291</string>
+    <string name="admob_home_activity">ca-app-pub-9837023125216008/9035863750</string>
+    <string name="admob_login_activity">ca-app-pub-9837023125216008/7288312010</string>
+    <string name="admob_main_activity">ca-app-pub-9837023125216008/9670932778</string>
+    <string name="admob_upload_activity">ca-app-pub-9837023125216008/4686199408</string>
+    <string name="admob_leads_activity">ca-app-pub-9837023125216008/3620529740</string>-->
+
+    <string name="action_sign_in_short">Register</string>
+    <string name="email">Email</string>
+    <string name="minimum_password">Password too short, enter minimum 6 characters!</string>
+    <string name="auth_failed">Authentication failed, check your email and password or sign up</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_password">Change Password</string>
+    <string name="send_password_reset_email">Send Password reset email</string>
+    <string name="remove_user">Remove user</string>
+    <string name="new_pass">New Password</string>
+    <string name="title_activity_profile">Firebase</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_link_to_register">Not a member? Get registered in Firebase now!</string>
+    <string name="btn_link_to_login">Already registered. Login Me!</string>
+    <string name="title_activity_reset_password">ResetPasswordActivity</string>
+    <string name="btn_forgot_password">Forgot your password?</string>
+    <string name="btn_reset_password">Reset Password</string>
+    <string name="btn_back"><![CDATA[<< Back]]></string>
+    <string name="hint_new_email">New Email</string>
+    <string name="btn_change">Change</string>
+    <string name="btn_send">Send</string>
+    <string name="btn_remove">Remove</string>
+    <string name="btn_sign_out">Sign out</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+    <string name="admin">Admin</string>
+    <string name="leads">Leads</string>
+    <string name="Sorry_Notconnected_to_internet">Sorry! Not connected to internet. Make Sure Enable Your Mobile Data / Wifi.</string>
+    <string name="todo">TODO</string>
+    <string name="view_details">View Details</string>
+    <string name="_2019_06_12">2019-06-12</string>
+</resources>
