@@ -204,7 +204,6 @@ public class HomeActivity extends AppCompatActivity implements ConnectivityRecei
                         mDatabase.child(upload.getId()).setValue(updateUpload);
 
                         showBottomSheetDialog(upload);
-                        Log.d("TAG", "onRecyclerViewItemClicked: " + position);
 
                         //  showLeadsDialog(upload.getCurrentDate(), upload.getJobType(), upload.description, upload.url);
 
